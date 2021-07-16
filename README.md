@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xavescu
+- 👀 I’m interested in SOLID principles applied in new technologies
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking to collaborate on REACT proyects
+- 📫 How to reach me ...
